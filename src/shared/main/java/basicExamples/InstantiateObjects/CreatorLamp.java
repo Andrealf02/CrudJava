@@ -1,4 +1,4 @@
-package exampleBasics;
+package basicExamples.InstantiateObjects;
 
 public class CreatorLamp {
     private String color;
